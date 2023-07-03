@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj",
       "projectName": "MusicPlayer.Shared",
-      "projectPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj",
+      "projectPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj",
       "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",

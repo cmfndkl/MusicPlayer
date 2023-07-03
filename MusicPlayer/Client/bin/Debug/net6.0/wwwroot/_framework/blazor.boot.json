@@ -196,15 +196,15 @@
       "mscorlib.dll": "sha256-y7DhCb2PceYWjnHWsZokJrty551Q9XISH3Z72o6RdwI=",
       "netstandard.dll": "sha256-REs1\/xYvAzuX2k2Y5p\/5IaM3O\/zaiYSW62pOQBGMrrA=",
       "System.Private.CoreLib.dll": "sha256-Bz7VnNtt03SzAvIN30yx1e25P6SfMdLYIaKIy7ASEnw=",
-      "MusicPlayer.Shared.dll": "sha256-ppJ\/nbDvUH\/p+6qhJEhoMKOeJDI1Kn6HYejxRMSnbj4=",
-      "MusicPlayer.Client.dll": "sha256-cqjsY8AStavWhmvRXvCNzO90HMXjuNsQGMsO8n3tbVg="
+      "MusicPlayer.Shared.dll": "sha256-7vHK9S4fxR1IEUDuNqfdGsD90DwNqT4UftEjUFwY3gg=",
+      "MusicPlayer.Client.dll": "sha256-SM7trkgY8BJXAM06sJuGJpGvG9juIc6gWnJhFTMd9Ac="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "MusicPlayer.Shared.pdb": "sha256-cySdc8dTrLQ9E6on+YIAgWVn4dc7pkocCAHIfmg8NgM=",
-      "MusicPlayer.Client.pdb": "sha256-SEUFczrwZLYPMRF381PP6qUHOF0YJ+hHqH8u0z2zJdY="
+      "MusicPlayer.Shared.pdb": "sha256-jvEXnptZCPWcqIR+Ue4kQoKEFi\/Toks9y\/D1OaBDdEg=",
+      "MusicPlayer.Client.pdb": "sha256-SaeyFa+xlxwxNLwufzsbmoBO07X3ey102V5D0PlH3Y0="
     },
     "runtime": {
       "dotnet.6.0.15.syrkmopqi0.js": "sha256-fb2wBZaRp096nChMG9nDNEcW0kW1whA\/kfQNyH+5QpQ=",

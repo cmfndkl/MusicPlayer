@@ -1223,11 +1223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
       "projectName": "MusicPlayer.Server",
-      "projectPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
+      "projectPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
       "packagesPath": "C:\\Users\\Cem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Server\\obj\\",
+      "outputPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1244,11 +1244,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Client\\MusicPlayer.Client.csproj": {
-              "projectPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Client\\MusicPlayer.Client.csproj"
+            "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Client\\MusicPlayer.Client.csproj": {
+              "projectPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Client\\MusicPlayer.Client.csproj"
             },
-            "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj": {
-              "projectPath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj"
+            "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj": {
+              "projectPath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Shared\\MusicPlayer.Shared.csproj"
             }
           }
         }

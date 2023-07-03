@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMQ02SXnB292sFqBLRyhzVfOldVP2fEKA8gbkcw65byCcK2XTBDivaMYGOidS7r8F/oghcvB03lsu06nyie4mw==",
+  "dgSpecHash": "/1p5k8Nt8x5FbY0qXkkJD9BfMuiUXDP1kRIojLsM/STN8Gks3KYZg11/OjENKU4ZpbMxZ/7nyOmFda1yGCw9RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cem\\source\\repos\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
+  "projectFilePath": "C:\\Users\\Cem\\Desktop\\music project\\MusicPlayer\\MusicPlayer\\Server\\MusicPlayer.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cem\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.14\\microsoft.aspnetcore.authorization.6.0.14.nupkg.sha512",
     "C:\\Users\\Cem\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.14\\microsoft.aspnetcore.components.6.0.14.nupkg.sha512",
