@@ -1,0 +1,45 @@
+﻿@page "/musics"
+@inject IMusicServices MusicServices
+
+<PageTitle>Music Player</PageTitle>
+
+<h3>Musics</h3>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Music Name</th>
+            <th> Artist Name </th>
+            <th>Play
+
+            </th>
+            <th>            
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var music in MusicServices.musics)
+        {
+            <tr>
+                <td>@music.MusicName</td>
+                <td>@music.ArtistName</td>
+                <audio controls controlsList="nodownload" name=" media">
+                    <source src=@music.MusicUrl type="audio/mpeg">
+                </audio>
+                <td>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await MusicServices.GetMusic();
+    }
+}
