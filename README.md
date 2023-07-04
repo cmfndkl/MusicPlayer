@@ -11,4 +11,5 @@
 
 ## ScreenShot
 
-![Screenshot 2023-07-04 025843](https://github.com/cmfndkl/MusicPlayer/assets/34371442/6e7dd5a3-5ad5-47d6-8249-5d9343a73e5b)
+
+![Screenshot 2023-07-04 025843](https://github.com/cmfndkl/MusicPlayer/assets/34371442/6ece4b13-d92e-422e-b149-b38c775c81d4)
